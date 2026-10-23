@@ -1,0 +1,5 @@
+{
+  "name": "snp-switch",
+  "image": "devkitpro/devkita64",
+  "postCreateCommand": "git submodule update --init --recursive"
+}
