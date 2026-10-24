@@ -81,3 +81,16 @@ build-release-linux/
 
 # Python bytecode
 __pycache__/
+
+Rom/*.z64
+*.n64
+*.v64
+
+fail.log
+out.txt
+build.logRom/
+fail*.log
+out*.txt
+out*.txt~
+build.log
+nohup.out
