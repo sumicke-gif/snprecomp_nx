@@ -22,7 +22,7 @@
 #endif
 
 #include "ultra64.h"
-#include "config.hpp"
+#include "ultramodern/config.hpp"
 
 struct SDL_Window;
 
